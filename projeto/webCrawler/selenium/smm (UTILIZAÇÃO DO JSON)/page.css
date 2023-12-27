@@ -1,0 +1,16 @@
+
+.float-child{
+    width: 300px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    position: relative;
+    /* display: block; */
+}
+.noticia-img{
+    width: 100%;
+    min-height: 210px;
+    min-width: 280px;
+    max-width: 280px;
+    max-height: 210px;
+}

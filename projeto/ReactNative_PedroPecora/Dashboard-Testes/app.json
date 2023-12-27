@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Smart Education tool",
+    "slug": "Bioma",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/transparent-logo-Cropped.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/transparent-logo-Cropped.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "Bioma1.apk"
+    },
+    "web": {
+      "favicon": "./assets/transparent-logo-Cropped.png"
+    }
+  }
+}
