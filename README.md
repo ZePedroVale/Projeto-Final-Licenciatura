@@ -1,2 +1,6 @@
 # smart_education_tool
-test
+#pt
+Este projeto tem como foco principal, o desenvolvimento de uma aplicação multiplataforma com uma dashboard, que permita visualizar o desperdício alimentar existente e assim incentivar o utilizador a tomar medidas para na redução do mesmo. Este, poderá ser útil para a delineação de estratégias que permitam incentivar à mitigação do mesmo, e também na recolha de informações.nPara tal, o uso do React Native e do DjangoRestFramework, serao importantes para a construção de uma aplicação, baseada em resultados recolhidos no quiosque onde estará uma balança e uma câmara a recolher os mesmos, que permitirão identificar os alimentos com maior propensão ao seu desperdício. Tendo assim uma dashboard, que deverá igualmente, incentivar e alertar os utilizadores para que tal fenómeno não aconteça.
+
+#en
+The main focus of this project is the development of a multiplatform application with a dashboard to visualize existing food waste and encourage the user to take steps to reduce it. This could be useful for outlining strategies to encourage its mitigation, as well as for collecting information.nTo this end, the use of React Native and DjangoRestFramework will be important for building an application, based on results collected at the kiosk where there will be a scale and a camera to collect them, which will allow the identification of the food most likely to be wasted. It will then have a dashboard, which should also encourage and alert users so that this phenomenon doesn't happen.
